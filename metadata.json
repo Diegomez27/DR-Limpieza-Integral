@@ -1,0 +1,6 @@
+{
+  "name": "DR Limpieza Integral | Limpieza Profesional a Domicilio",
+  "description": "Limpieza profesional de salas, colchones, alfombras, sillas y persianas a domicilio. Cotiza al instante por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
